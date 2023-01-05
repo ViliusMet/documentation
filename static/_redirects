@@ -82,3 +82,5 @@
 /docs/pipeline-components-and-applications/loaders-storage-targets/events-manifest-populator/* /docs/pipeline-components-and-applications/legacy/events-manifest-populator/:splat 301
 /docs/pipeline-components-and-applications/loaders-storage-targets/emr-etl-runner/* /docs/pipeline-components-and-applications/legacy/emr-etl-runner/:splat 301
 /docs/forwarding-events-to-destinations/ /docs/destinations/ 301
+
+/docs/destinations/forwarding-events/google-tag-manager-server-side/building-an-enriched-event-relay-for-gtm-ss/ /docs/pipeline-components-and-applications/snowbridge/ 301
