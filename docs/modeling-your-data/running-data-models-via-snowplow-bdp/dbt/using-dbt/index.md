@@ -110,7 +110,8 @@ profile_name:
       project: [GCP project id]
       dataset: [the name of your dbt dataset] # You can also use "schema" here
       threads: [1 or more]
-      keyfile: "{{ env_var('GOOGLE_APPLICATION_CREDENTIALS') }}" 
+      keyfile: "{{ env_var('GOOGLE_APPLICATION_CREDENTIALS') }}"
+      location: [database location]
   target: prod
 ```
 
